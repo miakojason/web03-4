@@ -124,7 +124,7 @@ function to($url)
 }
 $Poster = new DB('poster');
 $Movie = new DB('movie');
-$Order = new DB('order');
+$Order = new DB('orders');
 $sess = [
     1 => '14:00~16:00',
     2 => '16:00~18:00',
